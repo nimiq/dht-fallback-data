@@ -89,7 +89,7 @@
       "address": "NQ97 H1NR S3X0 CVFQ VJ9Y 9A0Y FRQN Q6EU D0PL"
     },
     {
-      "peer_id": "12D3KooWNgvdSUhTspx7eoUBYoutQ7mDzZFKJbkWskgM45qTijwj",
+      "peer_id": "12D3KooWAi3WFxbXGW7Fzb6ccKaajjJgfqus6eQsaouTg5H1TteF",
       "address": "NQ08 LMAK 00XK YYN9 CDXV ADVG CL0U HUBM J670"
     },
     {
@@ -111,6 +111,10 @@
     {
       "peer_id": "12D3KooWL4ywrr2yCTQM4ebUdc2gpyKueqmwQetFnCphRFqCpFVJ",
       "address": "NQ04 CR27 XURG V48S PK1X 1039 1EPS VR35 EK50"
+    },
+    {
+      "peer_id": "12D3KooWQk4d7gzu12n4wbRrvZfyBHC27yJRGsvtcQ9RegYUnchK",
+      "address": "NQ62 5TEJ JM5T 6BE6 B543 KUEQ GHD1 SFF8 3F19"
     }
   ]
 }
