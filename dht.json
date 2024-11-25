@@ -1,88 +1,100 @@
 {
   "validators": [
     {
-      "address": "NQ26 0000 0000 02A5 YAK7 4QNF 9MH0 TE2B GVRU",
-      "peer_id": "12D3KooWD9bYVKHXm7H6RErXJLhYbPG6EN5g8wW3JqPWAi9ERwfo"
+      "peer_id": "12D3KooWD9bYVKHXm7H6RErXJLhYbPG6EN5g8wW3JqPWAi9ERwfo",
+      "address": "NQ26 0000 0000 02A5 YAK7 4QNF 9MH0 TE2B GVRU"
     },
     {
-      "address": "NQ15 5JNS U7CE RAH5 3T02 F8A9 JCT6 QMG9 7TSV",
-      "peer_id": "12D3KooWQTVYVf2ypKkdsH2qyWnhYgrC5Z34nCXmgHnoykHwsmUp"
+      "peer_id": "12D3KooWQTVYVf2ypKkdsH2qyWnhYgrC5Z34nCXmgHnoykHwsmUp",
+      "address": "NQ15 5JNS U7CE RAH5 3T02 F8A9 JCT6 QMG9 7TSV"
     },
     {
-      "address": "NQ37 6EL5 BP9K XL1A 3ED0 L3EC NPR5 C9D3 BRKG",
-      "peer_id": "12D3KooWBc7hnp7rom9vhAX3mgcFEuHQdisK6hXdJcXE1ZkgYhuG"
+      "peer_id": "12D3KooWBc7hnp7rom9vhAX3mgcFEuHQdisK6hXdJcXE1ZkgYhuG",
+      "address": "NQ37 6EL5 BP9K XL1A 3ED0 L3EC NPR5 C9D3 BRKG"
     },
     {
-      "address": "NQ68 71A2 LBX7 R5RD PESQ ANBU 0G7T 7H11 6DPR",
-      "peer_id": "12D3KooWM3sxjJSK52QzTpMhDPK2915UDF3zfH2hWQLL7Cphwjsm"
+      "peer_id": "12D3KooWM3sxjJSK52QzTpMhDPK2915UDF3zfH2hWQLL7Cphwjsm",
+      "address": "NQ68 71A2 LBX7 R5RD PESQ ANBU 0G7T 7H11 6DPR"
     },
     {
-      "address": "NQ57 8QQT DDTN PGMF 02L0 QQXF 9TGB X8KM PPM6",
-      "peer_id": "12D3KooWSzWV33gZ2RuhtEryc2E3QuqDHe5r65Mu1CUaRFpNApFL"
+      "peer_id": "12D3KooWSzWV33gZ2RuhtEryc2E3QuqDHe5r65Mu1CUaRFpNApFL",
+      "address": "NQ57 8QQT DDTN PGMF 02L0 QQXF 9TGB X8KM PPM6"
     },
     {
-      "address": "NQ19 AC1J 0S6V KDYU 6YDQ RC57 9VH9 EEHP 9RFK",
-      "peer_id": "12D3KooWQrQd9iYx1SLiipQznAPoEpj3529rmiTxZpRgpXLBxiE6"
+      "peer_id": "12D3KooWQrQd9iYx1SLiipQznAPoEpj3529rmiTxZpRgpXLBxiE6",
+      "address": "NQ19 AC1J 0S6V KDYU 6YDQ RC57 9VH9 EEHP 9RFK"
     },
     {
-      "address": "NQ95 CN40 JSKR 353D 55J3 FK5S J66U 3908 KKF6",
-      "peer_id": "12D3KooWBx1JBFjq241mcwVubUFRyZnyFkakJBgreQWpvXwEfLfX"
+      "peer_id": "12D3KooWBx1JBFjq241mcwVubUFRyZnyFkakJBgreQWpvXwEfLfX",
+      "address": "NQ95 CN40 JSKR 353D 55J3 FK5S J66U 3908 KKF6"
     },
     {
-      "address": "NQ92 DBSV VQY5 3B7X 24UK EMJD FDHH 1GE6 N0D2",
-      "peer_id": "12D3KooWHctXoWk1osB7FUYkA4hDRJa91XAe9SQqutCHGZxvaiim"
+      "peer_id": "12D3KooWHctXoWk1osB7FUYkA4hDRJa91XAe9SQqutCHGZxvaiim",
+      "address": "NQ92 DBSV VQY5 3B7X 24UK EMJD FDHH 1GE6 N0D2"
     },
     {
-      "address": "NQ23 DPNH MAUE NXB4 5MFP 40H2 VXR8 81EC TCNN",
-      "peer_id": "12D3KooWCj4bFxeWVYb7pFVKsDtAyLZDhjuKpptyFxGsKyWHCTKg"
+      "peer_id": "12D3KooWCj4bFxeWVYb7pFVKsDtAyLZDhjuKpptyFxGsKyWHCTKg",
+      "address": "NQ23 DPNH MAUE NXB4 5MFP 40H2 VXR8 81EC TCNN"
     },
     {
-      "address": "NQ85 EA0M YF3E P9AX SM2C 58KX GD0B SXJE K2PJ",
-      "peer_id": "12D3KooWAu4LuAS5g9MJYcsfPVtWKy6FK6kC9in7nW4ws1rnoNZ8"
+      "peer_id": "12D3KooWAu4LuAS5g9MJYcsfPVtWKy6FK6kC9in7nW4ws1rnoNZ8",
+      "address": "NQ85 EA0M YF3E P9AX SM2C 58KX GD0B SXJE K2PJ"
     },
     {
-      "address": "NQ29 FBVT B4GM S27H UBP4 1MTC GNKQ VPBT 099M",
-      "peer_id": "12D3KooWKkiMEUoVy2QXZhi9Cfstwy7LFaDdT38WMVPrWyQSi27S"
+      "peer_id": "12D3KooWKkiMEUoVy2QXZhi9Cfstwy7LFaDdT38WMVPrWyQSi27S",
+      "address": "NQ29 FBVT B4GM S27H UBP4 1MTC GNKQ VPBT 099M"
     },
     {
-      "address": "NQ60 GH2T VEA2 CUR5 SXAD QU9B 7ELD YMG5 5T7U",
-      "peer_id": "12D3KooWATgAE8AxExQhEco4DiT8WqYq1TAdSWF1Z61mDCDJGJFh"
+      "peer_id": "12D3KooWATgAE8AxExQhEco4DiT8WqYq1TAdSWF1Z61mDCDJGJFh",
+      "address": "NQ60 GH2T VEA2 CUR5 SXAD QU9B 7ELD YMG5 5T7U"
     },
     {
-      "address": "NQ74 HBNA LCQ3 700S CNP4 E26H G1L3 P6GX N5TV",
-      "peer_id": "12D3KooWMbNCNsEJQsEUzfM1GQZXZmfYMnEPjAnTsz21xiZvXHFL"
+      "peer_id": "12D3KooWMbNCNsEJQsEUzfM1GQZXZmfYMnEPjAnTsz21xiZvXHFL",
+      "address": "NQ74 HBNA LCQ3 700S CNP4 E26H G1L3 P6GX N5TV"
     },
     {
-      "address": "NQ15 HNAH YRVH DFVM YHAG BSXG 0QHK KA0Q XDR7",
-      "peer_id": "12D3KooWSVjvmjV2TrD9VhQmfESSrKUXUTNs3NDo87QgtF7BE35f"
+      "peer_id": "12D3KooWSVjvmjV2TrD9VhQmfESSrKUXUTNs3NDo87QgtF7BE35f",
+      "address": "NQ15 HNAH YRVH DFVM YHAG BSXG 0QHK KA0Q XDR7"
     },
     {
-      "address": "NQ51 LM8E Q8LS 53TX GGDG 26M4 VX4Y XRE2 8JDT",
-      "peer_id": "12D3KooWByZ7MQsYJyrW1EBqP42hBFvnri5WsjPNPBuGBJkp7JrH"
+      "peer_id": "12D3KooWByZ7MQsYJyrW1EBqP42hBFvnri5WsjPNPBuGBJkp7JrH",
+      "address": "NQ51 LM8E Q8LS 53TX GGDG 26M4 VX4Y XRE2 8JDT"
     },
     {
-      "address": "NQ51 SURF MCTM AQXM 15PA K9FX 8EEX 29BE VGH8",
-      "peer_id": "12D3KooWHtxprriWp7Gqh1drK3HqX9ffUepvPAriLeQouKEmTV8X"
+      "peer_id": "12D3KooWHtxprriWp7Gqh1drK3HqX9ffUepvPAriLeQouKEmTV8X",
+      "address": "NQ51 SURF MCTM AQXM 15PA K9FX 8EEX 29BE VGH8"
     },
     {
-      "address": "NQ13 SY9E HDV2 TYHG XHNR 5LGX VUF6 0HX6 AHSL",
-      "peer_id": "12D3KooWAfaUGNTebqQoQEgsHpL3YhnMp5rLvwV3qkSChwvRVgSK"
+      "peer_id": "12D3KooWAfaUGNTebqQoQEgsHpL3YhnMp5rLvwV3qkSChwvRVgSK",
+      "address": "NQ13 SY9E HDV2 TYHG XHNR 5LGX VUF6 0HX6 AHSL"
     },
     {
-      "address": "NQ26 TT94 M4LL F8QS UH4M XPQK 9P42 QNH9 XVNY",
-      "peer_id": "12D3KooWDFLFNF8RkGjiG9FQNhLXTvStEu3UK4nPmZWw69mPeFbc"
+      "peer_id": "12D3KooWDFLFNF8RkGjiG9FQNhLXTvStEu3UK4nPmZWw69mPeFbc",
+      "address": "NQ26 TT94 M4LL F8QS UH4M XPQK 9P42 QNH9 XVNY"
     },
     {
-      "address": "NQ44 V95C ABVY RARR SBMC V8VE M6UH EJP0 RXYQ",
-      "peer_id": "12D3KooWSr8Eg38afbyP4UGBk2ZYbhMAonaRFbNzvc4bSgS4juk6"
+      "peer_id": "12D3KooWSr8Eg38afbyP4UGBk2ZYbhMAonaRFbNzvc4bSgS4juk6",
+      "address": "NQ44 V95C ABVY RARR SBMC V8VE M6UH EJP0 RXYQ"
     },
     {
-      "address": "NQ36 U0BH 0BHM J0EH UAE5 FMV6 D2EY 8TBP 50M3",
-      "peer_id": "12D3KooW9tKu6QesTCCqADjhVSf4hvWinzjuLpxv4mefBzKLkiae"
+      "peer_id": "12D3KooW9tKu6QesTCCqADjhVSf4hvWinzjuLpxv4mefBzKLkiae",
+      "address": "NQ36 U0BH 0BHM J0EH UAE5 FMV6 D2EY 8TBP 50M3"
     },
     {
-      "address": "NQ38 VK34 DRBL S3CN M9KM 8UJN 9JY2 2KFN VQQH",
-      "peer_id": "12D3KooWACSuQF43wRf5KRfE2LrfQg4TLA1dgA3donbLvqS9jWHu"
+      "peer_id": "12D3KooWACSuQF43wRf5KRfE2LrfQg4TLA1dgA3donbLvqS9jWHu",
+      "address": "NQ38 VK34 DRBL S3CN M9KM 8UJN 9JY2 2KFN VQQH"
+    },
+    {
+      "peer_id": "12D3KooWMtWVqEHySdPBFZMVGCLJn3ApDQF2jhjjheXMUdMGqnYH",
+      "address": "NQ97 H1NR S3X0 CVFQ VJ9Y 9A0Y FRQN Q6EU D0PL"
+    },
+    {
+      "peer_id": "12D3KooWNgvdSUhTspx7eoUBYoutQ7mDzZFKJbkWskgM45qTijwj",
+      "address": "NQ08 LMAK 00XK YYN9 CDXV ADVG CL0U HUBM J670"
+    },
+    {
+      "peer_id": "12D3KooWQgL4HPXGVBtas316S9PffU7xKmSYRe2Tsj1jh25J3iQo",
+      "address": "NQ05 U1RF QJNH JCS1 RDQX 4M3Y 60KR K6CN 5LKC"
     }
   ]
 }
